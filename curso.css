@@ -58,7 +58,7 @@ section.news-agenda .agenda .content a { margin-left: 60px; padding: 10px 50px; 
 .conteudo-programatico h2 { color: #000; font: bold 45px 'Open Sans'; text-transform: uppercase; margin-top: 0; padding-bottom: 20px; margin-bottom: 30px; border-bottom: 1px solid #d7d7d7; }
 .conteudo-programatico ul { list-style: none; padding:0; margin:0; }
 .conteudo-programatico li {  padding-left: 1em;  text-indent: -.7em; }
-.conteudo-programatico li:before { content: "• "; color: #961227; font-size: 20px; }
+.conteudo-programatico li:before { content: "â€¢ "; color: #961227; font-size: 20px; }
 .bg-cinza { background-color: #e7e7e7; }
 #formulario-curso { padding: 30px 0; }
 #formulario-curso h2 { margin-top: 0px; margin-bottom: 5px; font: bold 28px 'Open Sans'; color: #333; }
